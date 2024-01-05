@@ -41,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por Paulo Andres. :wave: [Conheça minha inspiração aqui!]([https://youtu.be/KDxC061PfDo](https://cursos.alura.com.br/course/ios-construindo-primeiro-aplicativo)https://cursos.alura.com.br/course/ios-construindo-primeiro-aplicativo)
+Feito com ♥ por Paulo Andres. :wave: [Conheça minha inspiração aqui!](https://youtu.be/KDxC061PfDo](https://cursos.alura.com.br/course/ios-construindo-primeiro-aplicativo)https://cursos.alura.com.br/course/ios-construindo-primeiro-aplicativo)
