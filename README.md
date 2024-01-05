@@ -13,7 +13,7 @@ Você consegue finalizar esse jogo? :) <br/>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://github.com/andrvss/iQuiz/assets/110691699/d107f413-2172-408d-a1ba-b9730faa52e3">
 </p>
 
 <br>
