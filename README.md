@@ -1,4 +1,4 @@
-<h1 align="center"> Sobre Mim </h1>
+<h1 align="center"> iQuiz </h1>
 
 <p align="center">
 App de Perguntas e Respostas. 
