@@ -18,10 +18,6 @@ Você consegue finalizar esse jogo? :) <br/>
 
 <br>
 
-<p align="center">
-  <img alt="Projeto 01" src="https://user-images.githubusercontent.com/110691699/226186437-ef5b3458-120e-4f4e-bf96-69c919304131.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
